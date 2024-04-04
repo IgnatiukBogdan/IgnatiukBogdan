@@ -1,6 +1,6 @@
 👋 Hi, I’m @IgnatiukBogdan
 👀 I’m interested in computer science, artificial intelligence, and software development.
-🌱 I’m currently learning I'm currently delving into programming languages and web development frameworks.
+🌱 I’m currently learning and delving into programming languages and web development frameworks.
 💞️ I’m looking to collaborate on open-source projects related to AI and web development.
 📫 How to reach me: [ignatiukbohdan@gmail.com]
 😄 Pronouns: He/Him
